@@ -177,7 +177,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 - ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
-- 🛑 **Cloning, redistributing, or modifying** is strictly prohibited.
+
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
