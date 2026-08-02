@@ -271,7 +271,3 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## Support Project
-> any amount will help keep the project upto date and more advanced
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=3UEDDCYD4AR9U)
